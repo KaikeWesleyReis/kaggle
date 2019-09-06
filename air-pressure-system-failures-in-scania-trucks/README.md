@@ -1,11 +1,10 @@
 # Scania APS Analysis through Inference and Prediction Model Approach
-**Description**: The dataset consist of a challenge presented by **Scania** in a conference in 2016. There is some scientific work related as presented in **Conference References**. Nowadays this dataset is hosted in kaggle's website. This dataset presents several problems:
-- A high number of NA values
-- High correlated variables
-- Unbalanced label categories
+**Description**: The dataset consist of a challenge presented by **Scania** in a 2016 conference. There are scientific works refered in **Conference References** created to this dataset. This dataset presents several problems:
+- A high quantity NA values
+- High number of correlated variables
+- Unbalanced labels
 
-**Content**: 
-The solution provided here is a framework using feature selection techniques, missing analysis and machine learning. To see more, you can find within this folder my notebook (with explanations) and the real code, generated using *Rstudio*.
+**Content**: The solution provided here is a pipeline based in feature selection techniques, missing data analysis and machine learning. To see more, you can find within this folder my notebook (with explanations) and the real code, generated using *Rstudio*.
 
 ## Conference References
 •	Camila Ferreira Costa, Mario A. Nascimento; Advances in Intelligent Data Analysis XV: 15th International Symposium – página 381; IDA 2016 Industrial Challenge: Using Machine Learning for Predicting Failures; 2016; 
