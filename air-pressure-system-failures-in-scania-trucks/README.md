@@ -7,7 +7,7 @@
 **Content**: 
 The solution provided here is a framework using feature selection techniques, missing analysis and machine learning. To see more, you can find within this folder my notebook (with explanations) and the real code, generated using *Rstudio*.
 
-**Conference References**
+## Conference References
 •	Camila Ferreira Costa, Mario A. Nascimento; Advances in Intelligent Data Analysis XV: 15th International Symposium – página 381; IDA 2016 Industrial Challenge: Using Machine Learning for Predicting Failures; 2016; 
 
 •	Ezgi Can Ozan, Ekaterina Riabchenko, Serkan Kiranyaz, and Moncef Gabbouj; Advances in Intelligent Data Analysis XV: 15th International Symposium – página 381; An Optimized k-NN Approach for Classification on Imbalanced Datasets with Missing Data; 2016 ;
