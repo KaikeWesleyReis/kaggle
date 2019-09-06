@@ -4,4 +4,4 @@
 To understand the results, where I describe what I found, you can see my notebook within this folder. The real code, generated using *Rstudio* is found here too.
 
 ## Links
-**Original Dataset**: [kaggle dataset](https://www.kaggle.com/lgmoneda/jair-bolsonaro-twitter-data)
+**Original Dataset**: [bolsonaro_tweets.csv](https://www.kaggle.com/lgmoneda/jair-bolsonaro-twitter-data)
