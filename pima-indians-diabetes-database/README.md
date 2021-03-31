@@ -7,5 +7,5 @@
 ![diabetes](https://user-images.githubusercontent.com/32513366/113217390-422bb180-9254-11eb-8e4a-141867572660.png)
 
 ## Links
-**Kaggle dataset**: [aps_failures_training_set.csv and aps_failures_test_set.csv](https://www.kaggle.com/uciml/aps-failure-at-scania-trucks-data-set)
+**Kaggle dataset**: [access link](https://www.kaggle.com/uciml/pima-indians-diabetes-database?select=diabetes.csv)
 
